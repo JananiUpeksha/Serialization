@@ -7,6 +7,7 @@ Deserialization is the reverse process of serialization. It involves taking a by
 
 
 Benefits of Serialization & Deserialization
+
 The benefits of serialization extend beyond its basic function. Key advantages include:
 1. Data Interchange: Serialized data allows for seamless communication between different software system components.
 2. Storage Efficiency: Serialization optimizes data storage, making it compact and easily manageable.
